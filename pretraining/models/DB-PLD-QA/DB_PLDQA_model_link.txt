@@ -1,0 +1,1 @@
+This link leads to a Google Drive folder, where a .zip file for the domain-adaptive pretrained DB-PLD-QA model can be downloaded: https://drive.google.com/drive/folders/11m9jb3y7NQfzU0h6cxnNPRJkjILBd0_f?usp=sharing
