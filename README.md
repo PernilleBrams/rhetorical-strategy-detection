@@ -4,6 +4,9 @@
 
 This repository contains all code, notebooks, data pipelines, corpora, and trained language models developed for my master’s thesis in Cognitive Science, titled **DISARM: Deception Identification and Statement Assessment in Rhetorical Messaging Using NLP**. The goal of this project was to build an end-to-end NLP pipeline for detecting rhetorical strategies—particularly distinguishing “Answers” from “Non-Answers”—in Danish parliamentary question-answer exchanges (QAEs).
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/a980eea7-ff31-4695-be53-d37b8a09201c" />
+
+
 ---
 
 ## 📁 Folder Structure
