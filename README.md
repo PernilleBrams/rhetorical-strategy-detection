@@ -5,7 +5,7 @@
 This repository contains all code, notebooks, data pipelines, corpora, and trained language models developed for my master’s thesis in Cognitive Science, titled **DISARM: Deception Identification and Statement Assessment in Rhetorical Messaging Using NLP**. The goal of this project was to build an end-to-end NLP pipeline for detecting rhetorical strategies—particularly distinguishing “Answers” from “Non-Answers”—in Danish parliamentary question-answer exchanges (QAEs).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a980eea7-ff31-4695-be53-d37b8a09201c" width="452" alt="Annotator workflow and Streamlit view" />
+  <img src="https://github.com/user-attachments/assets/95e8f510-4cc5-4662-8282-98a33d512905" width="771" alt="Annotator workflow and Streamlit view (new screenshot)" />
   <br>
   <em>Figure 5. A. Depiction of annotators’ sequence through annotations, starting with skimming the debates and ending with updating and saving the made annotations for the given DebateUnit. B. Showing the view of DebateUnits as it looked on the Streamlit page.</em>
 </p>
