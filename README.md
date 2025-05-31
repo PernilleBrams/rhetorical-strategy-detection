@@ -2,7 +2,9 @@
  
 ## 📚 Project Overview
 
-This repository contains all code, notebooks, data pipelines, corpora, and trained language models developed for my master’s thesis in Cognitive Science, titled **DISARM: Deception Identification and Statement Assessment in Rhetorical Messaging Using NLP**. The goal of this project was to build an end-to-end NLP pipeline for detecting rhetorical strategies—particularly distinguishing “Answers” from “Non-Answers”—in Danish parliamentary question-answer exchanges (QAEs). The annotations that this project relied on were made via a Streamlit App, which code can be found in this sister-repo: https://github.com/PernilleBrams/task-1-rhetorical-strategies-repo
+This repository contains all code, notebooks, data pipelines, corpora, and trained language models developed for my master’s thesis in Cognitive Science, titled **DISARM: Deception Identification and Statement Assessment in Rhetorical Messaging Using NLP**. The goal of this project was to build an end-to-end NLP pipeline for detecting rhetorical strategies—particularly distinguishing “Answers” from “Non-Answers”—in Danish parliamentary question-answer exchanges (QAEs).
+
+The annotations that this project relied on were made via a Streamlit App, which code can be found in this sister-repo: https://github.com/PernilleBrams/task-1-rhetorical-strategies-repo
 
 
 <p align="center">
