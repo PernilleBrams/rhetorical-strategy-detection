@@ -1,0 +1,1 @@
+This link leads to a Google Drive folder, where the .safetensors-file for this model can be downloaded from: https://drive.google.com/drive/folders/1Hgb2bk_AF0NXrt8bgz0ullB2G67WNZg0?usp=sharing
