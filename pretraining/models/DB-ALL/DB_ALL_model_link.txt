@@ -1,0 +1,1 @@
+This link leads to a Google Drive folder, where a .zip file for the domain-adaptive pretrained DB-ALL model can be downloaded: https://drive.google.com/drive/folders/1p3I8OHHKL5PCpXYFA3x4o6zcvElfEOls?usp=sharing
