@@ -1,4 +1,4 @@
-# 🏛️ Rhetorical-Strategy-Detection
+# 🏛️ DISARM: Rhetorical-Strategy-Detection Using NLP for Danish
  
 ## 📚 Project Overview
 
